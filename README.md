@@ -9,4 +9,4 @@ Click on production version of game to play test version of game.
 
 Goal: Player will try to reach water on other side.  
 
-Instructions: Use arrow keys to control player in game.  Game (score & lives) will reset once player has lost 3 lives.
+Instructions: Use arrow keys to control player in game.  Score and lives are tallied.  Game (score & lives) will reset once player has lost 3 lives.
