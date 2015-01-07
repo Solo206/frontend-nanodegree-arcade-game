@@ -7,4 +7,6 @@ To run production version of game: http://solo206.github.io/frontend-nanodegree-
 
 Click on production version of game to play test version of game.
 
-Goal: Player will try to reach water on other side.  Everytime player reaches water, 100+ score is added to scoreboard.  If player dies, game will reset and player will lose a life.
+Goal: Player will try to reach water on other side.  
+
+Instructions: Use arrow keys to control player in game.  Game (score & lives) will reset once player has lost 3 lives.
